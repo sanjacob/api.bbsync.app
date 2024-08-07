@@ -1,0 +1,22 @@
+{
+  "id": "COC001",
+  "courseId": "COC001",
+  "name": "Introduction to Software Development",
+  "description": null,
+  "created": "2019-10-01T12:00:00Z",
+  "modified": null,
+  "organization": false,
+  "ultraStatus": null,
+  "closedComplete": false,
+  "availability": {
+    "available": "Yes",
+    "allowGuests": false,
+    "adaptiveRelease": {},
+    "duration": null
+  },
+  "enrollment": {
+    "type": ""
+  },
+  "locale": null,
+  "externalAccessUrl": null
+}

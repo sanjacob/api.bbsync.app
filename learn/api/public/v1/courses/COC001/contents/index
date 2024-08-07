@@ -1,0 +1,68 @@
+{
+  "results": [
+    {
+      "id": "materials",
+      "title": "Module Materials",
+      "body": null,
+      "created": "2019-10-01T12:00:00Z",
+      "modified": "2024-01-01T12:30:00Z",
+      "position": 0,
+      "hasChildren": true,
+      "launchInNewWindow": false,
+      "reviewable": false,
+      "availability": {
+        "available": "Yes",
+        "allowGuests": false,
+        "adaptiveRelease": {},
+        "duration": null
+      },
+      "contentHandler": {
+        "id": "x-bb-folder",
+        "url": null,
+        "file": null,
+        "gradeColumnId": null,
+        "groupContent": null,
+        "targetId": null,
+        "targetType": null,
+        "placementHandle": null,
+        "assessmentId": null,
+        "proctoring": null
+      },
+      "links": [],
+      "hasGradebookColumns": false,
+      "hasAssociatedGroups": false
+    },
+    {
+      "id": "welcome",
+      "title": "Welcome",
+      "body": "<p>Your journey begins here!</p>",
+      "created": "2019-10-01T12:00:00Z",
+      "modified": "2024-01-01T12:30:00Z",
+      "position": 0,
+      "hasChildren": true,
+      "launchInNewWindow": false,
+      "reviewable": false,
+      "availability": {
+        "available": "Yes",
+        "allowGuests": false,
+        "adaptiveRelease": {},
+        "duration": null
+      },
+      "contentHandler": {
+        "id": "x-bb-folder",
+        "url": null,
+        "file": null,
+        "gradeColumnId": null,
+        "groupContent": null,
+        "targetId": null,
+        "targetType": null,
+        "placementHandle": null,
+        "assessmentId": null,
+        "proctoring": null
+      },
+      "links": [],
+      "hasGradebookColumns": false,
+      "hasAssociatedGroups": false
+    }
+  ]
+}

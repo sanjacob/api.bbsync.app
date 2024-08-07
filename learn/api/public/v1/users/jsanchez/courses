@@ -1,0 +1,21 @@
+{
+  "results": [
+    {
+      "id": "ID-jsanchez-COC001",
+      "userId": "jsanchez",
+      "courseId": "COC001",
+      "dataSourceId": null,
+      "created": "2019-01-01T12:30:00Z",
+      "modified": null,
+      "availability": {
+        "available": "Yes",
+        "allowGuests": false,
+        "adaptiveRelease": {},
+        "duration": null
+      },
+      "courseRoleId": null,
+      "lastAccessed": null,
+      "childCourseId": null
+    }
+  ]
+}
